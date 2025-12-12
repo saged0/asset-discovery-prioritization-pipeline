@@ -10,6 +10,15 @@ The goal of this project is to bridge the gap between automated network scanning
 
 The pipeline is built entirely using open-source tools and emphasizes simplicity, transparency, and adaptability for local government use cases.
 
+## Research Context
+
+This project builds on prior research examining cybersecurity practices in resource-limited local government environments. In particular, it is informed by findings presented in:
+
+Trivedi, D., & Despeignes, S. *Local Government Supply Chain Cybersecurity: Addressing the Implementation Gap in Resource-Limited Municipalities.* ResearchGate, 2024.  
+https://www.researchgate.net/publication/396960966_Local_Government_Supply_Chain_Cybersecurity_Addressing_the_Implementation_Gap_in_Resource-Limited_Municipalities
+
+That research identified persistent gaps in asset inventory management, visibility, and implementation capacity across Maryland municipalities. These findings directly motivated the design of a lightweight, open-source pipeline that works with existing tools and processes rather than requiring costly enterprise replacements.
+
 ## Pipeline Workflow
 
 The pipeline is organized into the following stages:
